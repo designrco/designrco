@@ -1,11 +1,52 @@
+<h1 align="center">سلام 👋 من [نام شما] هستم!</h1>
 
-Hey there  I'm Nikoo Asadnejad
-👩‍💻 About Me :
-With a degree in Software Engineering and a deep passion for technology, I specialize in crafting scalable, high-performance back-end solutions using ASP.NET Core and C#. My expertise spans SQL Server, Entity Framework, RESTful APIs, and Git, enabling me to deliver robust, efficient web applications. Driven by a love for problem-solving, I thrive on tackling complex challenges and staying ahead of industry trends. Alongside my core skills, I’m well-versed in modern technologies like Microservices, DDD, CQRS, gRPC, Redis, MongoDB, RabbitMQ, and front-end essentials like HTML, CSS, JavaScript, and MVC. I’m passionate about continuous learning and growth, always eager to connect with like-minded professionals and explore innovative ideas in the tech community. Let’s connect and build the future of technology together!
+<p align="center">
+  <img src="https://github.com/Nikoo-Asadnejad.png" width="150" style="border-radius: 50%;" alt="Profile Picture">
+</p>
 
-🌱 As a Software Engineer and i'm trying to build applications which solve people problems.
-🔭 Always looking forward to learn cutting-edge technologies and explore tech world.
+<p align="center">
+  🎯 توسعه‌دهنده‌ی وب | 🖥 برنامه‌نویس | 🚀 علاقه‌مند به تکنولوژی  
+</p>
 
-🛠️ Languages and Tools :
+---
 
-CSharp   dotnetcore   SQLServer   RabbitMq   mongodb   Redis   Git   Linux   Http   RestAPI   GraphQl   gRpc   ElasticSearch   HTML   CSS   JavaScript  
+### 📌 درباره‌ی من
+- 🎓 در حال یادگیری **[تکنولوژی موردعلاقه]**
+- 💼 در حال کار بر روی **[پروژه‌ی خاص]**
+- 💡 علاقه‌مند به **هوش مصنوعی، وب، امنیت**
+- 📫 راه‌های ارتباطی: [ایمیل یا لینک‌های شبکه اجتماعی]
+
+---
+
+### 🚀 مهارت‌ها  
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+</p>
+
+---
+
+### 📊 آمار گیت‌هاب من  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
+
+---
+
+### 📂 آخرین پروژه‌ها
+- 🏆 [**پروژه‌ی ۱**](#) – توضیح کوتاه  
+- 🔥 [**پروژه‌ی ۲**](#) – توضیح کوتاه  
+- 🚀 [**پروژه‌ی ۳**](#) – توضیح کوتاه  
+
+---
+
+### 🌍 ارتباط با من
+<p align="center">
+  <a href="https://t.me/YOUR_TELEGRAM"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
